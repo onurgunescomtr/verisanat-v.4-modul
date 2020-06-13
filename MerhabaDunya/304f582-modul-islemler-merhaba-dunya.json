@@ -1,0 +1,28 @@
+{
+    "merhaba": {
+        "moduladi": "merhabadunya",
+        "adi": "Merhaba Dünya",
+        "arayuz": "modul-yaratiyorum",
+        "parcalar": 1,
+        "veritablosu": "304f582MerhabaDunya",
+        "veripaylasimi": false,
+        "apolustur": "modulOgesi,yeni-merhaba-dunya,Yeni Merhaba Dünya Oluştur",
+        "apyonet": null,
+        "apgalanlari": [
+            {
+                "bolum": "adi",
+                "adi": "Merhaba Dünya Veri Tablosu Adı",
+                "tipi": "normal",
+                "gerekli": "required"
+            }
+        ],
+        "apkalanlari": null,
+        "essizalan": "gorunenadi",
+        "islemogesi": "islem",
+        "sinifadi": "md",
+        "yapi": "ilkmodul",
+        "yapidegistir": null,
+        "cercevedegistir": null,
+        "istemciyeozguekran": false
+    }
+}
