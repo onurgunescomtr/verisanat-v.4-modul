@@ -1,0 +1,103 @@
+{
+    "dergi": {
+        "moduladi": "dergi",
+        "adi": "e-Dergi",
+        "arayuz": "sayfalar",
+        "islemarayuzu": "dergi-islemleri",
+        "parcalar": 2,
+        "veritablosu": "Dd542aa7aDergi",
+        "veripaylasimi": true,
+        "apolustur": "dergi,yeni-dergi,Yeni Sayfa",
+        "apyonet": "dergi,dergi-islemleri,Dergi Yönetimi",
+        "apgalanlari": [
+            {
+                "bolum": "adi",
+                "adi": "Sayfa Başlığı",
+                "tipi": "normal",
+                "gerekli": "required"
+            },
+            {
+                "bolum": "ozelyazi",
+                "adi": "Yazı Durumu,Normal Yazı,Özel Yazı",
+                "tipi": "tikli",
+                "gerekli": "required"
+            },
+            {
+                "bolum": "durumu",
+                "adi": "Sayfa Durumu,Kapalı,Görünür",
+                "tipi": "tikli",
+                "gerekli": "required"
+            },
+            {
+                "bolum": "yazi",
+                "adi": "Yazı",
+                "tipi": "alan",
+                "gerekli": null
+            },
+            {
+                "bolum": "tanim",
+                "adi": "SEO Sayfa Başlığı",
+                "tipi": "normal",
+                "gerekli": null
+            },
+            {
+                "bolum": "anahtarkelime",
+                "adi": "SEO Anahtar Kelimeleri",
+                "tipi": "normal",
+                "gerekli": null
+            },
+            {
+                "bolum": "ozet",
+                "adi": "SEO Sayfa Tanımı",
+                "tipi": "normal",
+                "gerekli": null
+            },
+            {
+                "bolum": "benzerleri",
+                "adi": "Benzer Sayfalar",
+                "tipi": "secim",
+                "gerekli": null
+            },
+            {
+                "bolum": "kategori",
+                "adi": "Yeni Kategori",
+                "tipi": "normal",
+                "gerekli": null
+            },
+            {
+                "bolum": "foto",
+                "adi": "Fotoğraflar",
+                "tipi": "foto",
+                "gerekli": null
+            },
+            {
+                "bolum": "manset",
+                "adi": "Manşet mi?,Hayır değil,Evet manşet olarak yayınla",
+                "tipi": "tikli",
+                "gerekli": "required"
+            },
+            {
+                "bolum": "modelno",
+                "adi": "Sayfa Seri No",
+                "tipi": "normal",
+                "gerekli": null
+            }
+        ],
+        "listebasliklari": [
+            "No",
+            "Adı",
+            "Kategori",
+            "Açıklama",
+            "Durum",
+            "Fotoğraf",
+            "Kaldır"
+        ],
+        "essizalan": "gorunenadi",
+        "islemogesi": "ekislem",
+        "sinifadi": "d",
+        "yapi": "tomar",
+        "yapidegistir": null,
+        "cercevedegistir": null,
+        "istemciyeozguekran": false
+    }
+}
